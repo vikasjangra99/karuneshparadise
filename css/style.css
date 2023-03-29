@@ -136,6 +136,7 @@ h1 span{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-size: cover; background-position: center center; background-repeat: no-repeat; background-attachment: fixed"
 }
 
 .start-page hr{
