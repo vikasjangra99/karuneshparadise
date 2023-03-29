@@ -322,7 +322,7 @@ h1 span{
 }
 
 .menu-content .logo {
-   color:#333;
+   color:#ada074;
    font-family: 'Trajan Pro Regular';
    font-weight:700;
    font-size:24px;
@@ -421,6 +421,7 @@ h1 span{
 .about-us h2{
   text-align:center;
   margin-top:50px;
+  font-family: "Trojan Pro Regular";
   font-size:26px;
   color:black;
   line-height:1.2;
@@ -911,12 +912,13 @@ input.submit{
 }
 
 .footer .logo{
-
+color: #f0f0f0;
   position:relative;
-  width:58px;
+  width: 300px;;
   height:58px;
   margin: 0 auto;
   padding-top:50px;
+  text-align: center;
 
 }
 
