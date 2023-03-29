@@ -127,8 +127,8 @@ h1 span{
 
 .start-page{
   position:relative;
-  width:auto;
-  height:auto;
+  width:100%;
+  height:100%;
   z-index:10;
   /* background:url('../img/background/start-page.jpg') #c0c0c0 bottom center fixed no-repeat; */
   background:url('../img/background/start.JPG') #c0c0c0 bottom center fixed no-repeat;
@@ -137,8 +137,7 @@ h1 span{
   -o-background-size: cover;
   background-size: cover;
 
-  background-repeat: no-repeat;
-  background-size: cover;
+  
   
 }
 
